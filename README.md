@@ -2,7 +2,7 @@
 
 repo for the assignments of NKU_MFC_Course: 可视化技术基础
 
-**HW1**
+# HW1
 
 1. (1) 按下键盘任意字符键（识别两个功能键: Delete, End），客户区中显示按键信息（字符或功能键内容）；
 
@@ -18,7 +18,7 @@ repo for the assignments of NKU_MFC_Course: 可视化技术基础
 
    (3) 通过两个工具栏按钮，控制小球停止与再次启动。
 
-**HW2**
+# HW2
 
 1.（1）MFC标准项目、简易式菜单与停靠式工具栏；
    （2）支持快捷菜单，包括直线、椭圆、矩形等3个菜单项；
@@ -36,7 +36,7 @@ repo for the assignments of NKU_MFC_Course: 可视化技术基础
 
  HW2_2\x64\Release目录下的save.txt为测试保存结果
 
-**HW3**
+# HW3
 
 1.（1）MFC标准项目、简易式菜单与停靠式工具栏；
    （2）支持快捷的浮动菜单，包括直线（L）、矩形（R）、多边形（P）等菜单项，以及对应的快捷键（Ctrl+L、Ctrl+R、Ctrl+P）；
@@ -49,7 +49,7 @@ repo for the assignments of NKU_MFC_Course: 可视化技术基础
    （3）主菜单中增加1个下拉菜单，包括原图、4倍、1/4倍等菜单项；
    （4）点击其中某个菜单项后，按相应比例在客户区输出一个BMP文件（尺寸为400\*300），如果显示不开（填满客户区即可）。
 
-**HW4**
+# HW4
 
 1．设计单文档窗口程序，满足以下要求：
 
