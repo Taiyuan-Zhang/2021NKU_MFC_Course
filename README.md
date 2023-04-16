@@ -1,3 +1,4 @@
+[![Security Status](https://s.murphysec.com/badge/Taiyuan-Zhang/2021NKU_MFC_Course.svg)](https://www.murphysec.com/p/Taiyuan-Zhang/2021NKU_MFC_Course)
 # 2021NKU_MFC_Course
 
 repo for the assignments of NKU_MFC_Course: 可视化技术基础
